@@ -1,4 +1,3 @@
-.worktrees/**/.git
-.worktrees/**/.tmp/
-.worktrees/**/dist/
-.worktrees/**/.serena/
+.tmp/
+dist/
+.serena/
