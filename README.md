@@ -2,6 +2,9 @@
 
 Asus Merlin 路由器 softcenter 插件，封装 [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) 为标准 koolshare 软件中心插件。
 
+<img width="1835" height="1353" alt="image" src="https://github.com/user-attachments/assets/c88ec0d8-3c28-47f6-abf8-24940411bd19" />
+
+
 ## 功能
 
 - 在 Merlin/koolshare 路由器上安装、运行和管理 CLIProxyAPI 服务
